@@ -1,2 +1,2 @@
-from Set import superuser
-superuser()
+from KHOSO import menu
+menu()
